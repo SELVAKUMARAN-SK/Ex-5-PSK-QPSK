@@ -163,6 +163,7 @@ plt.show()
 
 ## OUTPUT WAVEFORM:
 #### QPSK:
+<img width="805" height="732" alt="image" src="https://github.com/user-attachments/assets/f2d327fa-495e-4bb5-b9c0-1c13522684f8" />
 
 #### PSK:
 
