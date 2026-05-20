@@ -163,9 +163,10 @@ plt.show()
 
 ## OUTPUT WAVEFORM:
 #### QPSK:
-<img width="805" height="732" alt="image" src="https://github.com/user-attachments/assets/f2d327fa-495e-4bb5-b9c0-1c13522684f8" />
+<img width="803" height="642" alt="Screenshot 2026-05-20 134344" src="https://github.com/user-attachments/assets/804bb5be-2009-44df-9042-a3143c83b6e9" />
 
 #### PSK:
+<img width="805" height="732" alt="image" src="https://github.com/user-attachments/assets/f2d327fa-495e-4bb5-b9c0-1c13522684f8" />
 
 ## RESULT:
 The PSK and QPSK signals were successfully modulated and demodulated using Google Colab.
