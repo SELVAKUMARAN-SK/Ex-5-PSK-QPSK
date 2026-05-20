@@ -45,7 +45,7 @@ decoded = (demod[::bd] < 0).astype(int)
 plt.figure(figsize=(10, 9))
 
 plt.suptitle(
-    "NAME : THIRIVIKARAMAN P\nREG NO : 212224060286",
+    "NAME : SELVAKUMARAN J\nREG NO : 212224060242",
     fontsize=12,
     fontweight='bold'
 )
@@ -131,7 +131,7 @@ for i in range(len(symbols)):
 plt.figure(figsize=(10, 8))
 
 plt.suptitle(
-    "NAME : THIRIVIKARAMAN P\nREG NO : 212224060286",
+    "NAME : SELVAKUMARAN J\nREG NO : 212224060242",
     fontsize=12,
     fontweight='bold'
 )
